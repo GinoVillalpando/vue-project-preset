@@ -15,7 +15,10 @@
       "lintOn": ["save"]
     },
     "@vue/cli-plugin-unit-jest": {},
-    "@vue/cli-plugin-e2e-cypress": {}
+    "@vue/cli-plugin-e2e-cypress": {},
+    "vue-cli-plugin-vuetify": {
+      "preset": "default"
+    }
   },
   "vueVersion": "2",
   "cssPreprocessor": "dart-sass"
